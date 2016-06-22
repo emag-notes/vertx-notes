@@ -25,6 +25,11 @@
       <artifactId>vertx-core</artifactId>
       <version>${version.vertx}</version>
     </dependency>
+    <dependency>
+      <groupId>io.vertx</groupId>
+      <artifactId>vertx-web</artifactId>
+      <version>${version.vertx}</version>
+    </dependency>
 
     <dependency>
       <groupId>junit</groupId>
